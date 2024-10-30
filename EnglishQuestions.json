@@ -1,12 +1,4 @@
 {
-  "Easy": {
-    "Truths": [
-      "For how much would you sleep with your boss?"
-    ],
-    "Dares": [
-      "Show someone your feet."
-    ]
-  },
   "Normal": {
     "Truths": [
       "What’s a secret you’ve never told anyone?",
@@ -22,13 +14,29 @@
       "Do 20 push-ups in a row."
     ]
   },
-  "Hard": {
+  "Party": {
     "Truths": [
       "For how much would you sleep with your boss?"
     ],
     "Dares": [
       "Show someone your feet."
     ]
-  }
+  },
+  "Extreme": {
+    "Truths": [
+      "Party truth",      
+    ],
+    "Dares": [
+      "Party Dares.",
+    ]
+  },
+  "Paar": {
+    "Truths": [
+      "Paar truth"
+    ],
+    "Dares": [
+      "Paar someone your feet."
+    ]
+  },
 }
 
