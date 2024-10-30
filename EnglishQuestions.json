@@ -1,15 +1,26 @@
 {
-  "Truths": [
-    "What’s a secret you’ve never told anyone?",
-    "If you could switch lives with anyone for a day, who would it be and why?",
-    "Have you ever had a crush on someone in this room? Who?",
-    "What’s the biggest lie you’ve ever told?"
-  ],
-  "Dares": [
-    "Sing the chorus of your favorite song at the top of your lungs.",
-    "Do an impression of someone in the room until someone can guess who you are.",
-    "Let someone else style your hair however they want for the next 3 rounds.",
-    "Post an embarrassing selfie on social media.",
-    "Do 20 push-ups in a row."
-  ]
+  "Normal": {
+    "Truths": [
+      "What’s a secret you’ve never told anyone?",
+      "If you could switch lives with anyone for a day, who would it be and why?",
+      "Have you ever had a crush on someone in this room? Who?",
+      "What’s the biggest lie you’ve ever told?"
+    ],
+    "Dares": [
+      "Sing the chorus of your favorite song at the top of your lungs.",
+      "Do an impression of someone in the room until someone can guess who you are.",
+      "Let someone else style your hair however they want for the next 3 rounds.",
+      "Post an embarrassing selfie on social media.",
+      "Do 20 push-ups in a row."
+    ]
+  },
+  "Hard": {
+    "Truths": [
+      "For how much would you sleep with your boss?"
+    ],
+    "Dares": [
+      "Show someone your feet."
+    ]
+  }
 }
+
