@@ -115,10 +115,12 @@
   },
   "Party": {
     "Truths": [
-      "For how much would you sleep with your boss?"
+      "For how much would you sleep with your boss?",
+      "One, Tow or Three?"
     ],
     "Dares": [
-      "Show someone your feet."
+      "Show someone your feet.",
+      "Do the thing"
     ]
   },
   "Extreme": {
